@@ -1,0 +1,12 @@
+c:\users\andrew\documents\visual studio 2013\Projects\Reference\Reference\bin\Debug\Reference.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\Reference\Reference\bin\Debug\Reference.exe
+c:\users\andrew\documents\visual studio 2013\Projects\Reference\Reference\bin\Debug\Reference.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\Reference\Reference\obj\Debug\Reference.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\Reference\Reference\obj\Debug\Reference.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2013\Projects\Reference\Reference\obj\Debug\Reference.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2013\Projects\Reference\Reference\obj\Debug\Reference.exe
+c:\users\andrew\documents\visual studio 2013\Projects\Reference\Reference\obj\Debug\Reference.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Reference\Reference\obj\Debug\Reference.ManageReferencesForm.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Reference\Reference\obj\Debug\Reference.BookForm.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Reference\Reference\obj\Debug\Reference.ChapterForm.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Reference\Reference\obj\Debug\Reference.JournalForm.resources

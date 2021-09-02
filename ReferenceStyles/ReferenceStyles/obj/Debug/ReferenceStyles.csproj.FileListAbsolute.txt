@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2013\Projects\ReferenceStyles\ReferenceStyles\bin\Debug\ReferenceStyles.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\ReferenceStyles\ReferenceStyles\bin\Debug\ReferenceStyles.exe
+c:\users\andrew\documents\visual studio 2013\Projects\ReferenceStyles\ReferenceStyles\bin\Debug\ReferenceStyles.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\ReferenceStyles\ReferenceStyles\obj\Debug\ReferenceStyles.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\ReferenceStyles\ReferenceStyles\obj\Debug\ReferenceStyles.Form1.resources
+c:\users\andrew\documents\visual studio 2013\Projects\ReferenceStyles\ReferenceStyles\obj\Debug\ReferenceStyles.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2013\Projects\ReferenceStyles\ReferenceStyles\obj\Debug\ReferenceStyles.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2013\Projects\ReferenceStyles\ReferenceStyles\obj\Debug\ReferenceStyles.exe
+c:\users\andrew\documents\visual studio 2013\Projects\ReferenceStyles\ReferenceStyles\obj\Debug\ReferenceStyles.pdb
